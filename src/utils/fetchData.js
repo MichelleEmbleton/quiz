@@ -1,3 +1,5 @@
+// for the App-using-useState.js
+// the App.js with a reducer has the fetchData in the useEffect
 
 export const fetchData = async () => {
     try {
