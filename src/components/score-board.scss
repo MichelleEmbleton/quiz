@@ -1,0 +1,94 @@
+
+.scores {   
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    font: 18px/1.5 'Helvetica', sans-serif;
+
+    & .score {
+        
+        &-list {   
+            width: 250px;
+
+            &-heading {
+                font: italic 20px 'Edwardian', serif;
+                color: #111;
+                margin-top: 15px; 
+            }
+
+            &-count {
+                font-size: 28px;
+            }
+
+            & .no-entry {
+                font: italic 17px 'Edwardian', serif;
+                color: #777;
+                margin-top: 22px; 
+                text-align: center;              
+            }
+            
+            & .score-entry {
+                font: 12px/1.5 'Verdana', sans-serif;
+                
+                & .score-question {
+                    font-style: italic;
+                    color: #000;
+                }
+        
+                & .score-answer {
+                    color: #888;
+                }
+        
+                & .wrong-answer {      
+                    color: #ff0000;
+                    margin-bottom: -10px;
+                }
+            }
+        }
+
+    }
+
+    & .correct-list {
+        margin-right: 40px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+      
+    .scores {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+
+        & .correct-list {
+            margin-right: 0;
+        }
+
+        & .score {
+        
+            &-list {
+                width: auto;
+            }  
+    
+            & .no-entry {    
+                margin-right: 0;
+            }
+        }
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

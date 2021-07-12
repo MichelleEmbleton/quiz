@@ -1,0 +1,116 @@
+
+.categories {
+    width: 100%;
+    padding: 30px;
+    min-height: 70vh;
+    display: flex;
+    overflow: hidden;
+    animation: fadeIn 1s forwards;
+        
+    & .topic-btn {
+        border: 1px solid #e2e2e2;  
+        border-radius: 3px;
+        background-color: rgba(0, 0, 70, 1);
+        background-image: linear-gradient(
+            to right,
+            rgba(0, 0, 50, 1) 0%,
+            transparent 10%,
+            transparent 90%,
+            rgba(0, 0, 50, 1) 100%
+        );
+        font: 14px 'Helvetica Neue', sans-serif;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #fff;
+        padding: 1rem 2.2rem;
+        transition: 
+            background-color 0.4s ease-in-out,
+            transform linear 1s;
+
+        &:not(:last-child) {
+            border-bottom: none;
+        }
+
+        &:last-child {
+            border: 3px solid rgba(109, 101, 34, 1);
+            color: rgba(185, 171, 39, 0.8);
+            font-weight: bold;
+        }
+
+        &:hover {
+            cursor: pointer;
+            background-color: rgba(0, 40, 0, 1);
+        }
+    }
+
+    & .slide-left {
+        animation: slideOutLeft 1s forwards;
+    }
+    & .slide-right {
+        animation: slideOutRight 1s forwards;
+    }
+}
+
+.stagger-view {   
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    &-btn {
+        width: auto;
+        height: 55px;
+        margin: 30px;
+    }
+}
+
+.column-view {
+    flex-direction: column;
+    justify-items: center;
+    align-items: center; 
+
+    &-btn {
+        width: 300px;
+        height: 60px;
+        margin: 0px;
+    }
+}
+
+
+
+@keyframes slideOutLeft {
+    0% {
+        transform: translateX(0);
+        opacity: 1;
+        visibility: visible;
+    }
+    100% {
+        transform: translateX(-500px);
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+@keyframes slideOutRight {
+    0% {
+        transform: translateX(0);
+        opacity: 1;
+        visibility: visible;
+    }
+    100% {
+        transform: translateX(500px);
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
