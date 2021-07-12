@@ -1,0 +1,327 @@
+{
+   "questions":
+      { 
+         "art": [
+            {
+               "question": "<p>Boris Johnson began the week by delaying the removal of the final lockdown restrictions from June 21 until at least which date?</p>",
+               "answer": "July 19",
+               "wrong1": "June 28",
+               "wrong2": "July 12",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Which of his Cabinet ministers did the Prime Minister allegedly call &quot;totally f------- hopeless&quot; according to texts released by Dominic Cummings?</p>",
+               "answer": "Matt Hancock",
+               "wrong1": "George Eustice",
+               "wrong2": "Priti Patel",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Where did Joe Biden and Vladimir Putin meet for their summit this week?</p>",
+               "answer": "Geneva, Switzerland",
+               "wrong1": "Carbis Bay, Cornwall",
+               "wrong2": "Brussels, Belgium",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>What did the UK&#x27;s tallest MP, Daniel Kawczynski, partially blame for him losing his temper with Parliamentary staff attempting to fix his IT problems?</p>",
+               "answer": "His height",
+               "wrong1": "Matt Hancock",
+               "wrong2": "Westminster's Wi-Fi",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>The Queen carried out her first in-person audience since the pandemic began, meeting Australian Prime Minister Scott Morrison. What did he say to her?</p>",
+               "answer": "She was \"quite the hit\" at the G7",
+               "wrong1": "Australia will thrash England in the Ashes",
+               "wrong2": "Would she try some Australian Cabernet Sauvignon",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Cristiano Ronaldo wiped $4bn (£2.8bn) off the value of which company after he removed one of its drinks from a Euro 2020 press conference?</p>",
+               "answer": "Coca-Cola",
+               "wrong1": "Heineken",
+               "wrong2": "Pepsi",
+               "wrong3": ""
+            }
+         ],
+      
+         "science": [
+            {
+               "question": "<p>Boris Johnson began the week by delaying the removal of the final lockdown restrictions from June 21 until at least which date?</p>",
+               "answer": "July 19",
+               "wrong1": "June 28",
+               "wrong2": "July 12",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Which of his Cabinet ministers did the Prime Minister allegedly call &quot;totally f------- hopeless&quot; according to texts released by Dominic Cummings?</p>",
+               "answer": "Matt Hancock",
+               "wrong1": "George Eustice",
+               "wrong2": "Priti Patel",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Where did Joe Biden and Vladimir Putin meet for their summit this week?</p>",
+               "answer": "Geneva, Switzerland",
+               "wrong1": "Carbis Bay, Cornwall",
+               "wrong2": "Brussels, Belgium",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>What did the UK&#x27;s tallest MP, Daniel Kawczynski, partially blame for him losing his temper with Parliamentary staff attempting to fix his IT problems?</p>",
+               "answer": "His height",
+               "wrong1": "Matt Hancock",
+               "wrong2": "Westminster's Wi-Fi",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>The Queen carried out her first in-person audience since the pandemic began, meeting Australian Prime Minister Scott Morrison. What did he say to her?</p>",
+               "answer": "She was \"quite the hit\" at the G7",
+               "wrong1": "Australia will thrash England in the Ashes",
+               "wrong2": "Would she try some Australian Cabernet Sauvignon",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Cristiano Ronaldo wiped $4bn (£2.8bn) off the value of which company after he removed one of its drinks from a Euro 2020 press conference?</p>",
+               "answer": "Coca-Cola",
+               "wrong1": "Heineken",
+               "wrong2": "Pepsi",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Who courted controversy by saying a united Ireland could be achieved in his lifetime?</p>",
+               "answer": "Leo Varadkar",
+               "wrong1": "Joe Biden",
+               "wrong2": "Michel Barnier",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Which author&#x27;s works have been linked to racism in updated blue plaque information after a review by English Heritage?</p>",
+               "answer": "Enid Blyton",
+               "wrong1": "Roald Dahl",
+               "wrong2": "Beatrix Potter",
+               "wrong3": ""
+            }
+         ],
+      
+         "current affairs": [
+            {
+               "question": "<p>Boris Johnson began the week by delaying the removal of the final lockdown restrictions from June 21 until at least which date?</p>",
+               "answer": "July 19",
+               "wrong1": "June 28",
+               "wrong2": "July 12",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Which of his Cabinet ministers did the Prime Minister allegedly call &quot;totally f------- hopeless&quot; according to texts released by Dominic Cummings?</p>",
+               "answer": "Matt Hancock",
+               "wrong1": "George Eustice",
+               "wrong2": "Priti Patel",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Where did Joe Biden and Vladimir Putin meet for their summit this week?</p>",
+               "answer": "Geneva, Switzerland",
+               "wrong1": "Carbis Bay, Cornwall",
+               "wrong2": "Brussels, Belgium",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>What did the UK&#x27;s tallest MP, Daniel Kawczynski, partially blame for him losing his temper with Parliamentary staff attempting to fix his IT problems?</p>",
+               "answer": "His height",
+               "wrong1": "Matt Hancock",
+               "wrong2": "Westminster's Wi-Fi",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>The Queen carried out her first in-person audience since the pandemic began, meeting Australian Prime Minister Scott Morrison. What did he say to her?</p>",
+               "answer": "She was \"quite the hit\" at the G7",
+               "wrong1": "Australia will thrash England in the Ashes",
+               "wrong2": "Would she try some Australian Cabernet Sauvignon",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Cristiano Ronaldo wiped $4bn (£2.8bn) off the value of which company after he removed one of its drinks from a Euro 2020 press conference?</p>",
+               "answer": "Coca-Cola",
+               "wrong1": "Heineken",
+               "wrong2": "Pepsi",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Who courted controversy by saying a united Ireland could be achieved in his lifetime?</p>",
+               "answer": "Leo Varadkar",
+               "wrong1": "Joe Biden",
+               "wrong2": "Michel Barnier",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Which author&#x27;s works have been linked to racism in updated blue plaque information after a review by English Heritage?</p>",
+               "answer": "Enid Blyton",
+               "wrong1": "Roald Dahl",
+               "wrong2": "Beatrix Potter",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>GB News attracted more than 350 complaints on its launch night about comments on its flagship show presented by whom?</p>",
+               "answer": "Dan Wootton",
+               "wrong1": "Kirsty Gallacher",
+               "wrong2": "Andrew Neil",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>A man believed to have the world’s largest family has died in northeastern India. He had 39 wives but how many children?</p>",
+               "answer": "94",
+               "wrong1": "109",
+               "wrong2": "81",
+               "wrong3": ""
+            }
+         ],
+      
+         "sport": [
+            {
+               "question": "<p>Boris Johnson began the week by delaying the removal of the final lockdown restrictions from June 21 until at least which date?</p>",
+               "answer": "July 19",
+               "wrong1": "June 28",
+               "wrong2": "July 12",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Which of his Cabinet ministers did the Prime Minister allegedly call &quot;totally f------- hopeless&quot; according to texts released by Dominic Cummings?</p>",
+               "answer": "Matt Hancock",
+               "wrong1": "George Eustice",
+               "wrong2": "Priti Patel",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Where did Joe Biden and Vladimir Putin meet for their summit this week?</p>",
+               "answer": "Geneva, Switzerland",
+               "wrong1": "Carbis Bay, Cornwall",
+               "wrong2": "Brussels, Belgium",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>What did the UK&#x27;s tallest MP, Daniel Kawczynski, partially blame for him losing his temper with Parliamentary staff attempting to fix his IT problems?</p>",
+               "answer": "His height",
+               "wrong1": "Matt Hancock",
+               "wrong2": "Westminster's Wi-Fi",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>The Queen carried out her first in-person audience since the pandemic began, meeting Australian Prime Minister Scott Morrison. What did he say to her?</p>",
+               "answer": "She was \"quite the hit\" at the G7",
+               "wrong1": "Australia will thrash England in the Ashes",
+               "wrong2": "Would she try some Australian Cabernet Sauvignon",
+               "wrong3": ""
+            }
+         ],
+      
+         "food": [
+            {
+               "question": "<p>Boris Johnson began the week by delaying the removal of the final lockdown restrictions from June 21 until at least which date?</p>",
+               "answer": "July 19",
+               "wrong1": "June 28",
+               "wrong2": "July 12",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Which of his Cabinet ministers did the Prime Minister allegedly call &quot;totally f------- hopeless&quot; according to texts released by Dominic Cummings?</p>",
+               "answer": "Matt Hancock",
+               "wrong1": "George Eustice",
+               "wrong2": "Priti Patel",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Where did Joe Biden and Vladimir Putin meet for their summit this week?</p>",
+               "answer": "Geneva, Switzerland",
+               "wrong1": "Carbis Bay, Cornwall",
+               "wrong2": "Brussels, Belgium",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>What did the UK&#x27;s tallest MP, Daniel Kawczynski, partially blame for him losing his temper with Parliamentary staff attempting to fix his IT problems?</p>",
+               "answer": "His height",
+               "wrong1": "Matt Hancock",
+               "wrong2": "Westminster's Wi-Fi",
+               "wrong3": ""
+            }
+         ],
+      
+         "film": [
+            {
+               "question": "<p>Boris Johnson began the week by delaying the removal of the final lockdown restrictions from June 21 until at least which date?</p>",
+               "answer": "July 19",
+               "wrong1": "June 28",
+               "wrong2": "July 12",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Which of his Cabinet ministers did the Prime Minister allegedly call &quot;totally f------- hopeless&quot; according to texts released by Dominic Cummings?</p>",
+               "answer": "Matt Hancock",
+               "wrong1": "George Eustice",
+               "wrong2": "Priti Patel",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Where did Joe Biden and Vladimir Putin meet for their summit this week?</p>",
+               "answer": "Geneva, Switzerland",
+               "wrong1": "Carbis Bay, Cornwall",
+               "wrong2": "Brussels, Belgium",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>What did the UK&#x27;s tallest MP, Daniel Kawczynski, partially blame for him losing his temper with Parliamentary staff attempting to fix his IT problems?</p>",
+               "answer": "His height",
+               "wrong1": "Matt Hancock",
+               "wrong2": "Westminster's Wi-Fi",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>The Queen carried out her first in-person audience since the pandemic began, meeting Australian Prime Minister Scott Morrison. What did he say to her?</p>",
+               "answer": "She was \"quite the hit\" at the G7",
+               "wrong1": "Australia will thrash England in the Ashes",
+               "wrong2": "Would she try some Australian Cabernet Sauvignon",
+               "wrong3": ""
+            }
+         ],
+      
+         "garden": [
+            {
+               "question": "<p>Boris Johnson began the week by delaying the removal of the final lockdown restrictions from June 21 until at least which date?</p>",
+               "answer": "July 19",
+               "wrong1": "June 28",
+               "wrong2": "July 12",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Which of his Cabinet ministers did the Prime Minister allegedly call &quot;totally f------- hopeless&quot; according to texts released by Dominic Cummings?</p>",
+               "answer": "Matt Hancock",
+               "wrong1": "George Eustice",
+               "wrong2": "Priti Patel",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>Where did Joe Biden and Vladimir Putin meet for their summit this week?</p>",
+               "answer": "Geneva, Switzerland",
+               "wrong1": "Carbis Bay, Cornwall",
+               "wrong2": "Brussels, Belgium",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>What did the UK&#x27;s tallest MP, Daniel Kawczynski, partially blame for him losing his temper with Parliamentary staff attempting to fix his IT problems?</p>",
+               "answer": "His height",
+               "wrong1": "Matt Hancock",
+               "wrong2": "Westminster's Wi-Fi",
+               "wrong3": ""
+            },
+            {
+               "question": "<p>The Queen carried out her first in-person audience since the pandemic began, meeting Australian Prime Minister Scott Morrison. What did he say to her?</p>",
+               "answer": "She was \"quite the hit\" at the G7",
+               "wrong1": "Australia will thrash England in the Ashes",
+               "wrong2": "Would she try some Australian Cabernet Sauvignon",
+               "wrong3": ""
+            }
+         ]
+      }
+      
+}
