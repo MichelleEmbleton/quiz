@@ -1,0 +1,26 @@
+
+.btns {        
+    max-width: 600px;  
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+    & .answer-btn {
+        background-color: rgba(0, 0, 120, 1);
+        color: #fff;
+        border: 1px solid rgba(0, 0, 100, 1);
+        border-radius: 2px;
+        padding: 15px 28px;
+        margin: 0 16px 30px;
+        font-size: 15px; 
+        transition: all 0.3s ease-in-out;
+        user-select: none;
+
+        &:hover {
+            cursor: pointer;
+            background-color: rgb(40, 100, 0);
+            border: 1px solid rgb(20, 40, 0);
+        }
+    }
+    
+}
